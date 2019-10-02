@@ -1,25 +1,25 @@
-# a10n
+# n7m
 
-a10n is abbreviation.
+n7m is abbreviation.
 
 ## Get Started
 
 ```shell
-% npm i a10n
+% npm i n7m
 ```
 
 ```js
-import a10n from 'a10n'
+import n7m from 'n7m'
 
-a10n('internationalization') // -> i18n
+n7m('internationalization') // -> i18n
 ```
 
 or
 
 ```js
-const a10n = require('a10n')
+const n7m = require('n7m')
 
-a10n('internationalization') // -> i18n
+n7m('internationalization') // -> i18n
 ```
 
 ## Licence

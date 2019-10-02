@@ -1,4 +1,4 @@
-function a10n(target) {
+function n7m(target) {
   if (typeof target === 'number') {
     target = `${target}`
   } else if (typeof target !== 'string') {
@@ -11,4 +11,4 @@ function a10n(target) {
   return `${prefix}${count}${suffix}`
 }
 
-module.exports = a10n
+module.exports = n7m

@@ -1,7 +1,7 @@
 {
-  "name": "a10n",
-  "version": "2.1.0",
-  "description": "a10n is abbreviation.",
+  "name": "n7m",
+  "version": "1.0.0",
+  "description": "n7m is numeronym.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hikarock/a10n.git"
+    "url": "git+https://github.com/hikarock/n7m.git"
   },
   "author": "hikarock <i@hika69.com> (https://hika69.com/)",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "prettier": "^1.18.2"
   },
   "bugs": {
-    "url": "https://github.com/hikarock/a10n/issues"
+    "url": "https://github.com/hikarock/n7m/issues"
   },
-  "homepage": "https://github.com/hikarock/a10n#readme"
+  "homepage": "https://github.com/hikarock/n7m#readme"
 }
