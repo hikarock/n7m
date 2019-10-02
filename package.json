@@ -4,11 +4,13 @@
   "description": "a10n is abbreviation.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prettier": "prettier --write './**/*.+(js)'"
   },
   "author": "hikarock <i@hika69.com> (https://hika69.com/)",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2"
   }
 }
