@@ -15,6 +15,30 @@ test('ab to be ab', () => {
 test('abc to be a1c', () => {
   expect(a10n('abc')).toBe('a1c');
 });
+test('1 to be 1', () => {
+  expect(a10n(1)).toBe('1');
+});
+test('12 to be 12', () => {
+  expect(a10n(12)).toBe('12');
+});
+test('123 to be 113', () => {
+  expect(a10n(123)).toBe('113');
+});
+test('null to be ""', () => {
+  expect(a10n(null)).toBe('');
+});
+test('undefined to be ""', () => {
+  expect(a10n(undefined)).toBe('');
+});
+test('array to be ""', () => {
+  expect(a10n(['foo', 'bar'])).toBe('');
+});
+test('object to be ""', () => {
+  expect(a10n({foo: 'bar'})).toBe('');
+});
+test('object to be ""', () => {
+  expect(a10n(new Object())).toBe('');
+});
 test('こ to be こ', () => {
   expect(a10n('こ')).toBe('こ');
 });
