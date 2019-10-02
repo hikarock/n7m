@@ -1,6 +1,6 @@
 # n7m
 
-n7m is abbreviation.
+n7m is numeronym.
 
 ## Get Started
 
