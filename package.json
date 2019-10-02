@@ -7,10 +7,18 @@
     "test": "jest",
     "prettier": "prettier --write './**/*.+(js)'"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikarock/a10n.git"
+  },
   "author": "hikarock <i@hika69.com> (https://hika69.com/)",
   "license": "MIT",
   "devDependencies": {
     "jest": "^24.9.0",
     "prettier": "^1.18.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hikarock/a10n/issues"
+  },
+  "homepage": "https://github.com/hikarock/a10n#readme"
 }
