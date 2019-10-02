@@ -1,0 +1,14 @@
+{
+  "name": "a10n",
+  "version": "1.0.0",
+  "description": "a10n is abbreviation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "hikarock <i@hika69.com> (https://hika69.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
